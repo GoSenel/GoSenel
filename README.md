@@ -1,9 +1,6 @@
 # Göknil Şenel  
 Based in Madrid, Spain | English C2 | Spanish B2 | Native Turkish |  
 
- "People say that intellect is what makes a great scientist.  
- They’re wrong: it’s character."  
- — Prof. Albert Einstein  
 
 **Email:** senelgoknil@gmail.com  
 
