@@ -1,16 +1,19 @@
-## Hi there 👋
+# Göknil Şenel  
+Based in Madrid, Spain | English C2 | Spanish B2 | Native Turkish |  
 
-<!--
-**GoSenel/GoSenel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ "People say that intellect is what makes a great scientist.  
+ They’re wrong: it’s character."  
+ — Prof. Albert Einstein  
 
-Here are some ideas to get you started:
+**Email:** senelgoknil@gmail.com  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portafolio
+- [J](https://github.com/MBengochea/Hospitality/)  
+  *AI-Stock-Insights Educative Dashboard*
+
+  ## Tech Stack
+
+| Category | Skills |
+|-----------|---------|
+| **Languages** | Python · Bash |
+| **Data Tools** | Pandas · NumPy · Streamlit · MS Excel|
