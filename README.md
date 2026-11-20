@@ -9,7 +9,7 @@ Based in Madrid, Spain | English C2 | Spanish B2 | Native Turkish |
 
 ## Portafolio
 - [J](https://github.com/MBengochea/Hospitality/)  
-  *AI-Stock-Insights Educative Dashboard*
+  *AI-Stock-Insights Educative Dashboard: A beginner-friendly stock market dashboard built with **Streamlit**, **Yahoo Finance (yfinance)**, **Plotly**, and **Machine Learning**.*
 
   ## Tech Stack
 
